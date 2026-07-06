@@ -1,4 +1,4 @@
-# 
+# Official Yi-Lightning scripts. Featuring voice-assistant and data-indexing — optimized for maximum performance and efficiency.
 
 
 
